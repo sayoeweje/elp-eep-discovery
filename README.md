@@ -7,7 +7,7 @@ This repository contains the necessary script and associated data to conduct the
 ## Contents
 
 ### Scripts
-* elp-eep_discovery.ipynb: Jupyter Notebook containing the full analysis pipeline
+* elp-eep_discovery.py: Python file containing the full analysis pipeline
 
 ### Data
 * CPPTrainingData.xlsx: Dataset used for training the first generation linear regression model. Data was derived from "Guay, D., DEL’GUIDICE, T. & LEPETIT-STOFFAES, J.-P. Polypeptide-based shuttle agents for improving the transduction efficiency of polypeptide cargos to the cytosol of target eukaryotic cells, uses thereof, methods and kits relating to same. (2016)"
