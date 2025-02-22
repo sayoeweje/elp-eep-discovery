@@ -24,7 +24,7 @@ The script requires Python 3.7 or above.
 ```
 conda create -n elp-eep-env python=3.7
 conda activate elp-eep-env
-pip install biopython==1.78 rdkit pandas numpy scipy matplotlib scikit-learn
+pip install biopython==1.78 rdkit pandas numpy scipy matplotlib scikit-learn openpyxl
 
 ```
 
