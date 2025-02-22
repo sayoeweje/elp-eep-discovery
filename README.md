@@ -33,7 +33,7 @@ cd elp-eep-discovery
 
 ### Run script
 ```
-python elp-eep_discovery.py
+python /scripts/elp-eep_discovery.py
 ```
 
 ### Expected output
