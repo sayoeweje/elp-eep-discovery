@@ -22,7 +22,7 @@ The script requires Python 3.7 or above.
 
 ### Install dependencies
 ```
-pip install biopython==1.78
+pip install biopython==1.78 rdkit pandas numpy scipy matplotlib scikit-learn
 ```
 
 ### Clone Repository
