@@ -20,9 +20,12 @@ This repository contains the necessary script and associated data to conduct the
 
 The script requires Python 3.7 or above.
 
-### Install dependencies
+### Set up virtual environment and install dependencies
 ```
+conda create -n elp-eep-env python=3.7
+conda activate elp-eep-env
 pip install biopython==1.78 rdkit pandas numpy scipy matplotlib scikit-learn
+
 ```
 
 ### Clone Repository
@@ -33,7 +36,7 @@ cd elp-eep-discovery
 
 ### Run script
 ```
-python /scripts/elp_eep_discovery.py
+python scripts/elp_eep_discovery.py
 ```
 
 ### Expected output
